@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-bluvviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Business-Process-Management-BPM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Business-Process-Management-BPM?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Business-Process-Management-BPM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Business-Process-Management-BPM?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Business-Process-Management-BPM/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Business-Process-Management-BPM?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Business-Process-Management-BPM/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Business-Process-Management-BPM?style=flat-square&color=red" alt="GitHub Issues" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Business-Process-Management-BPM/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-green.svg?style=flat-square" alt="License" /></a>
@@ -69,76 +69,76 @@ Curated enterprise SaaS solutions evaluated by company scale (valuation / annual
 
 ## 💻 Open-Source GitHub Projects & Engines 🔓
 
-Curated list of leading open-source BPM engines, workflow automation tools, and visual process designers, **sorted in descending order by GitHub stargazers count**. Each star badge links directly to the stargazers page of that repository.
+Curated list of leading open-source BPM engines, workflow automation tools, and visual process designers, **sorted in descending order by GitHub stargazers count**. Each Stars_Badge links directly to the stargazers page of that repository.
 
 ### ⚙️ Open-Source Process Engines & Workflow Suites
 
-- **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) ⚡  
+- **[n8n](https://github.com/n8n-io/n8n)** [![GitHub_Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) ⚡  
   **Fair-code workflow automation platform** with native AI agent orchestration, multi-step branching, and 400+ pre-built integrations.  
   *Tech stack*: TypeScript, Node.js, Vue.js. *License*: Sustainable Use License / Fair-code.  
   *Best for*: Technical teams building advanced multi-service automation flows with visual node editing and AI agent tooling.
 
-- **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers) 🤖  
+- **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub_Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers) 🤖  
   **Open-source no-code business workflow automation** tool designed as an extensible, privacy-first alternative to Zapier. Features an intuitive visual canvas, human approval steps, and community pieces.  
   *Tech stack*: TypeScript, Node.js, Angular. *License*: MIT.  
   *Best for*: Organizations needing self-hosted, MIT-licensed visual workflow automation with community-driven app connectors.
 
-- **[Windmill](https://github.com/windmill-labs/windmill)** [![GitHub stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers) 🌪️  
+- **[Windmill](https://github.com/windmill-labs/windmill)** [![GitHub_Stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers) 🌪️  
   **Developer-first workflow engine and internal tool builder** that turns Python, TypeScript, Go, Bash, or SQL scripts into production-ready workflows, approval flows, and auto-generated UIs.  
   *Tech stack*: Rust, Svelte, Python, TypeScript. *License*: AGPL-3.0 / Apache 2.0 client.  
   *Best for*: Engineering and DevOps teams building high-performance asynchronous workflows and internal operational apps.
 
-- **[Automatisch](https://github.com/automatisch/automatisch)** [![GitHub stars](https://img.shields.io/github/stars/automatisch/automatisch?style=social&color=white)](https://github.com/automatisch/automatisch/stargazers) 🛡️  
+- **[Automatisch](https://github.com/automatisch/automatisch)** [![GitHub_Stars](https://img.shields.io/github/stars/automatisch/automatisch?style=social&color=white)](https://github.com/automatisch/automatisch/stargazers) 🛡️  
   **Self-hosted business automation platform** built for data privacy and GDPR/HIPAA compliance. Enables connecting business applications without leaking customer data to third-party cloud brokers.  
   *Tech stack*: JavaScript, React, Node.js. *License*: AGPL-3.0.  
   *Best for*: Privacy-sensitive teams wanting a straightforward self-hosted workflow automation platform.
 
-- **[Activiti](https://github.com/Activiti/Activiti)** [![GitHub stars](https://img.shields.io/github/stars/Activiti/Activiti?style=social&color=white)](https://github.com/Activiti/Activiti/stargazers) 🏛️  
+- **[Activiti](https://github.com/Activiti/Activiti)** [![GitHub_Stars](https://img.shields.io/github/stars/Activiti/Activiti?style=social&color=white)](https://github.com/Activiti/Activiti/stargazers) 🏛️  
   **Battle-tested BPMN 2.0 execution engine** and the foundational root of modern open-source BPM. Offers lightweight embeddable execution, Spring integration, and REST APIs.  
   *Tech stack*: Java, Spring Boot. *License*: Apache 2.0.  
   *Best for*: Java teams maintaining legacy Activiti deployments or wanting a lightweight, unencumbered BPMN engine.
 
-- **[Flowable](https://github.com/flowable/flowable-engine)** [![GitHub stars](https://img.shields.io/github/stars/flowable/flowable-engine?style=social&color=white)](https://github.com/flowable/flowable-engine/stargazers) 🌊  
+- **[Flowable](https://github.com/flowable/flowable-engine)** [![GitHub_Stars](https://img.shields.io/github/stars/flowable/flowable-engine?style=social&color=white)](https://github.com/flowable/flowable-engine/stargazers) 🌊  
   **Cloud-native BPMN, CMMN, and DMN engine suite** and the leading enterprise-grade open-source BPM platform. Features separate embeddable engines, Docker/K8s readiness, and a comprehensive REST API.  
   *Tech stack*: Java, Spring Boot. *License*: Apache 2.0.  
   *Best for*: Modern microservice teams needing robust BPMN process orchestration, case management (CMMN), and business rules execution (DMN).
 
-- **[Camunda 8 (Zeebe & Web Modeler)](https://github.com/camunda/camunda)** [![GitHub stars](https://img.shields.io/github/stars/camunda/camunda?style=social&color=white)](https://github.com/camunda/camunda/stargazers) 🚀  
+- **[Camunda 8 (Zeebe & Web Modeler)](https://github.com/camunda/camunda)** [![GitHub_Stars](https://img.shields.io/github/stars/camunda/camunda?style=social&color=white)](https://github.com/camunda/camunda/stargazers) 🚀  
   **Distributed process orchestration platform** powered by the Zeebe event-driven workflow engine. Built for hyperscale microservice orchestration, human tasks, and enterprise BPMN 2.0 execution.  
   *Tech stack*: Java, Go, React. *License*: Camunda License / Source Available.  
   *Best for*: High-throughput distributed cloud architectures requiring microservice orchestration with strict visual BPMN observability.
 
-- **[Camunda 7 Platform](https://github.com/camunda/camunda-bpm-platform)** [![GitHub stars](https://img.shields.io/github/stars/camunda/camunda-bpm-platform?style=social&color=white)](https://github.com/camunda/camunda-bpm-platform/stargazers) ☕  
+- **[Camunda 7 Platform](https://github.com/camunda/camunda-bpm-platform)** [![GitHub_Stars](https://img.shields.io/github/stars/camunda/camunda-bpm-platform?style=social&color=white)](https://github.com/camunda/camunda-bpm-platform/stargazers) ☕  
   **Classic embeddable BPMN/DMN engine** widely adopted across enterprise Java ecosystems. Features Cockpit monitoring, Tasklist for human approvals, and deep Spring Framework bindings.  
   *Tech stack*: Java, Spring, REST. *License*: Apache 2.0 (Community Edition).  
   *Best for*: Teams running monolithic or microservice Java apps wanting a battle-tested embedded process engine.
 
-- **[LiteFlow](https://github.com/dromara/liteflow)** [![GitHub stars](https://img.shields.io/github/stars/dromara/liteflow?style=social&color=white)](https://github.com/dromara/liteflow/stargazers) ⚡  
+- **[LiteFlow](https://github.com/dromara/liteflow)** [![GitHub_Stars](https://img.shields.io/github/stars/dromara/liteflow?style=social&color=white)](https://github.com/dromara/liteflow/stargazers) ⚡  
   **Ultra-lightweight rule-engine and business logic orchestrator**. Uses an expressive Expression Language (EL) to model complex conditional branching, parallel executions, and hot-reloadable rule chains inside applications.  
   *Tech stack*: Java, Spring Boot. *License*: Apache 2.0.  
   *Best for*: Developers orchestrating complex in-app business logic, risk scoring, and calculations without the weight of full BPMN engines.
 
-- **[jBPM / Apache KIE](https://github.com/kiegroup/jbpm)** [![GitHub stars](https://img.shields.io/github/stars/kiegroup/jbpm?style=social&color=white)](https://github.com/kiegroup/jbpm/stargazers) 🧠  
+- **[jBPM / Apache KIE](https://github.com/kiegroup/jbpm)** [![GitHub_Stars](https://img.shields.io/github/stars/kiegroup/jbpm?style=social&color=white)](https://github.com/kiegroup/jbpm/stargazers) 🧠  
   **Comprehensive business automation suite** integrating BPMN 2.0 workflows with Drools business rule management (BRMS) and complex event processing (CEP). Currently migrating under the Apache KIE incubation umbrella.  
   *Tech stack*: Java, Drools. *License*: Apache 2.0.  
   *Best for*: Organizations with complex decision-making pipelines where business rules and compliance workflows are inextricably linked.
 
-- **[ProcessMaker Community Edition](https://github.com/processmaker/processmaker)** [![GitHub stars](https://img.shields.io/github/stars/processmaker/processmaker?style=social&color=white)](https://github.com/processmaker/processmaker/stargazers) 📋  
+- **[ProcessMaker Community Edition](https://github.com/processmaker/processmaker)** [![GitHub_Stars](https://img.shields.io/github/stars/processmaker/processmaker?style=social&color=white)](https://github.com/processmaker/processmaker/stargazers) 📋  
   **Full open-source BPM platform** offering visual drag-and-drop workflow modeling, interactive web forms, case management, and REST APIs.  
   *Tech stack*: PHP (Laravel), Vue.js, Docker. *License*: AGPL-3.0.  
   *Best for*: Teams seeking a complete web-based workflow portal with user task management in a LAMP/LEMP stack.
 
-- **[Operaton](https://github.com/operaton/operaton)** [![GitHub stars](https://img.shields.io/github/stars/operaton/operaton?style=social&color=white)](https://github.com/operaton/operaton/stargazers) 🔄  
+- **[Operaton](https://github.com/operaton/operaton)** [![GitHub_Stars](https://img.shields.io/github/stars/operaton/operaton?style=social&color=white)](https://github.com/operaton/operaton/stargazers) 🔄  
   **Community-governed hard fork of Camunda 7**, created to ensure long-term, pure open-source (Apache 2.0) maintenance and evolution for embedded BPMN/DMN engines without vendor lock-in.  
   *Tech stack*: Java, Spring Boot. *License*: Apache 2.0.  
   *Best for*: Existing Camunda 7 users seeking an open-source, vendor-neutral drop-in upgrade path.
 
-- **[Bonita Engine](https://github.com/bonitasoft/bonita-engine)** [![GitHub stars](https://img.shields.io/github/stars/bonitasoft/bonita-engine?style=social&color=white)](https://github.com/bonitasoft/bonita-engine/stargazers) 🎨  
+- **[Bonita Engine](https://github.com/bonitasoft/bonita-engine)** [![GitHub_Stars](https://img.shields.io/github/stars/bonitasoft/bonita-engine?style=social&color=white)](https://github.com/bonitasoft/bonita-engine/stargazers) 🎨  
   **End-to-end digital process automation platform** combining visual process modeling (Bonita Studio), customizable user application pages (UI Designer), and an enterprise process runtime engine.  
   *Tech stack*: Java, Spring Boot, REST APIs. *License*: GPL-2.0.  
   *Best for*: Organizations bridging business analysts and developers to build complete, low-code workflow portals.
 
-- **[CIB seven](https://github.com/cibseven/cibseven)** [![GitHub stars](https://img.shields.io/github/stars/cibseven/cibseven?style=social&color=white)](https://github.com/cibseven/cibseven/stargazers) 🛡️  
+- **[CIB seven](https://github.com/cibseven/cibseven)** [![GitHub_Stars](https://img.shields.io/github/stars/cibseven/cibseven?style=social&color=white)](https://github.com/cibseven/cibseven/stargazers) 🛡️  
   **Camunda 7 compatible open-source platform** offering continued enterprise support, bugfixes, and modern framework compatibility for existing BPMN 2.0 workflow estates.  
   *Tech stack*: Java, Spring Boot. *License*: Apache 2.0.  
   *Best for*: Enterprises seeking a drop-in Camunda 7 alternative with enterprise SLA and security patching.
@@ -149,23 +149,23 @@ Curated list of leading open-source BPM engines, workflow automation tools, and 
 
 These tools complement traditional BPMN engines by orchestrating high-throughput code-first workflows, microservices, and asynchronous event streams:
 
-- **[Apache Airflow](https://github.com/apache/airflow)** [![GitHub stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers) 🌬️  
+- **[Apache Airflow](https://github.com/apache/airflow)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers) 🌬️  
   **Programmatic workflow scheduling and batch processing platform**. Orchestrates tasks as Directed Acyclic Graphs (DAGs) in Python. Ideal for data engineering, ETL pipelines, and scheduled machine learning jobs. *(License: Apache 2.0)*.
 
-- **[Conductor OSS](https://github.com/conductor-oss/conductor)** [![GitHub stars](https://img.shields.io/github/stars/conductor-oss/conductor?style=social&color=white)](https://github.com/conductor-oss/conductor/stargazers) 🎼  
+- **[Conductor OSS](https://github.com/conductor-oss/conductor)** [![GitHub_Stars](https://img.shields.io/github/stars/conductor-oss/conductor?style=social&color=white)](https://github.com/conductor-oss/conductor/stargazers) 🎼  
   **Microservices and AI agent orchestration engine** originally developed by Netflix. Provides stateful, resilient distributed execution with decoupled worker pools across languages. *(License: Apache 2.0)*.
 
-- **[Kestra](https://github.com/kestra-io/kestra)** [![GitHub stars](https://img.shields.io/github/stars/kestra-io/kestra?style=social&color=white)](https://github.com/kestra-io/kestra/stargazers) ⚡  
+- **[Kestra](https://github.com/kestra-io/kestra)** [![GitHub_Stars](https://img.shields.io/github/stars/kestra-io/kestra?style=social&color=white)](https://github.com/kestra-io/kestra/stargazers) ⚡  
   **Event-driven declarative orchestrator** using YAML to define complex pipelines, data workflows, and business integrations with real-time UI execution monitoring. *(License: Apache 2.0)*.
 
-- **[Temporal](https://github.com/temporalio/temporal)** [![GitHub stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers) ⏳  
+- **[Temporal](https://github.com/temporalio/temporal)** [![GitHub_Stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers) ⏳  
   **Durable execution runtime** that guarantees workflows execute to completion despite infrastructure failures. Eliminates complex state machine code through code-first workflows in Go, Java, TypeScript, and Python. *(License: MIT)*.
 
 ---
 
 ### 🧩 Visual Process Modeling & BPMN Libraries
 
-- **[bpmn-js (bpmn.io)](https://github.com/bpmn-io/bpmn-js)** [![GitHub stars](https://img.shields.io/github/stars/bpmn-io/bpmn-js?style=social&color=white)](https://github.com/bpmn-io/bpmn-js/stargazers) 📐  
+- **[bpmn-js (bpmn.io)](https://github.com/bpmn-io/bpmn-js)** [![GitHub_Stars](https://img.shields.io/github/stars/bpmn-io/bpmn-js?style=social&color=white)](https://github.com/bpmn-io/bpmn-js/stargazers) 📐  
   **The definitive web-based BPMN 2.0 rendering and modeling library**. Written in JavaScript, it embeds interactive process diagrams directly inside any web application or custom low-code canvas. *(License: bpmn.io License / Source Available)*.
 
 ---
@@ -202,7 +202,7 @@ We welcome contributions from the global automation community! Follow these step
 
 1. 🍴 **Fork** this repository.
 2. 🌿 **Create a branch** for your updates (`git checkout -b add-process-tool`).
-3. ✏️ **Edit `README.md`**: Follow the established table or open-source list format, including social star badges, tags, and accurate license information.
+3. ✏️ **Edit `README.md`**: Follow the established table or open-source list format, including social Stars_Badges, tags, and accurate license information.
 4. 🚀 **Commit & Push** your changes cleanly.
 5. 📬 **Submit a Pull Request** with a concise summary of the added tool and why it benefits developers.
 
