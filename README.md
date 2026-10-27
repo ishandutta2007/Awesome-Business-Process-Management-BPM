@@ -32,79 +32,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global Business Process Management (BPM) and workflow automation market is estimated at **$14.7B to $22.6B in 2025** (scaling from ~$10B–$19B in 2024), driven by hyperautomation, cloud migration, and agentic AI orchestration. The sector is **moderately fragmented**—anchored by dominant enterprise mega-vendors (IBM, ServiceNow, Workday, Pegasystems) for mission-critical core stacks, but experiencing ongoing fragmentation and rapid vendor consolidation from agile low-code/no-code disruptors and niche orchestration platforms.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Workday Business Process Framework](https://www.workday.com/)**
-
-  **Embedded business process engine** within Workday HCM and Financials. **Features**: Configurable approval workflows, condition rules, subprocesses, organization-specific process inheritance, and step types (Action, To Do, Service) tied directly to Workday transactions . **Pricing**: Quote-only; included as part of the Workday platform subscription. **Free tier**: None. **Best for**: organizations already on Workday needing process automation tightly coupled to HR and finance transactions—not a standalone BPM tool.
-
-
-
-- **[Appian](https://appian.com/)**
-
-  **Low-code automation platform** combining BPM, case management, and AI. **Pricing**: Starting at **$75/month** according to third-party listings; enterprise pricing quote-only . **Free tier**: Free trial available. **Best for**: enterprises wanting rapid low-code process application development with strong integration and case management capabilities.
-
-
-
-- **[Pegasystems (Pega)](https://www.pega.com/)**
-
-  **Enterprise AI-powered workflow automation** platform. Pega Infinity '26 introduces MCP protocol support for third-party AI agents (Claude, Gemini, OpenAI) to invoke Pega workflows, plus a new pricing model charging per completed business case rather than per AI token . **Pricing**: Quote-only; new case-based pricing aims to reduce AI cost unpredictability. **Free tier**: None. **Best for**: large enterprises deploying AI agents within governed business processes at scale.
-
-
-
-- **[Camunda](https://camunda.com/)**
-
-  **Process orchestration platform** with BPMN, DMN, and CMMN engines. **Pricing**: **Development** (self-managed) is free for local building and testing; **Production** (self-managed) requires Enterprise license; **SaaS** offers 30-day free trial then quote-only . **Free tier**: Free for development/non-production self-managed use. **Best for**: developer-centric teams wanting the most widely adopted open-core BPM engine with strong microservice orchestration support.
-
-
-
-- **[Nintex](https://www.nintex.com/)**
-
-  **Workflow automation and process management** platform with document generation and RPA. **Pricing**: Quote-only; observed annual contracts range from **$15,000–$50,000** for small deployments to **$200,000+** for enterprise, with professional services often 30–80% of first-year software cost . **Free tier**: None. **Best for**: organizations heavily invested in Microsoft/SharePoint ecosystems wanting workflow automation with document generation.
-
-
-
-- **[ProcessMaker](https://www.processmaker.com/)**
-
-  **Low-code BPM and workflow platform** with process modeling, forms, and integrations. **Pricing**: Starting at **$1,500/month** according to third-party listings . **Free tier**: Trial available. **Best for**: mid-market organizations wanting a low-code BPM platform with flexible deployment options.
-
-
-
-- **[Kissflow](https://kissflow.com/)**
-
-  **No-code/low-code workflow and process platform**. **Pricing**: **Basic** starting at **$2,500/month** with limited apps, unlimited workflows, and limited integrations; **Enterprise** pricing custom with AI Copilot, unlimited apps/workflows, advanced analytics, SSO/SCIM, and SLA support . **Free tier**: None; trial available. **Best for**: business teams wanting self-service process automation without developer involvement.
-
-
-
-- **[Bizagi](https://www.bizagi.com/)**
-
-  **Digital process automation platform** with BPMN modeling and low-code app development. **Pricing**: Quote-only; public sector price lists show per-user training and license costs (e.g., $10,710 for up to 10 users) . **Free tier**: Free Process Modeler available. **Best for**: organizations wanting strong BPMN modeling with a path to process automation.
-
-
-
-- **[ServiceNow App Engine](https://www.servicenow.com/)**
-
-  **Low-code application development** on the ServiceNow platform. **Pricing**: Quote-only; three tiers (Starter, Foundation, Prime) available on request. Integration Hub requires separate subscription . **Free tier**: None. **Best for**: organizations already on ServiceNow wanting custom workflow apps that integrate with ITSM and enterprise data.
-
-
-
-- **[IBM Business Process Manager](https://www.ibm.com/)**
-
-  **Enterprise BPM platform** with process modeling, execution, and monitoring. **Pricing**: UK government listings show **£290.40–£373.20 per user per year** for IBM BPM on Cloud . **Free tier**: None. **Best for**: enterprises with existing IBM infrastructure requiring formal BPM governance and BPMN 2.0 export capabilities.
-
-
+| Platform | Company Scale (Valuation / Revenue) | Starting Pricing Tier | Free Tier / Trial Limits | Description & Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **[IBM Business Process Manager / BAW](https://www.ibm.com/)** | ~$278B Market Cap (~$62B+ Rev) | £290.40–£373.20/user/year (~$30/user/mo via Cloud/G-Cloud; custom enterprise bundles) | 30-day free trial (hands-on cloud access to workflow authoring, decisions, and content services) | Enterprise BPM platform with formal process modeling, execution, and monitoring. Best for enterprises with existing IBM infrastructure requiring formal BPM governance and BPMN 2.0 export capabilities. |
+| **[ServiceNow App Engine](https://www.servicenow.com/)** | ~$159B–$218B Market Cap (~$10B+ Rev) | ~$75–$120/creator user/month (Starter/Foundation tier; billed annually) | Free Personal Developer Instance (PDI) (1 active instance, non-production sandbox; hibernates upon inactivity; GenAI monthly prompt caps) | Low-code application development on the ServiceNow platform with ITSM & enterprise data integration. Best for organizations already on ServiceNow wanting custom workflow apps. |
+| **[Workday Business Process Framework](https://www.workday.com/)** | ~$56B–$72B Market Cap (~$8.4B Rev) | ~$8–$42/employee/month ($96–$504/yr, min contract starts ~$100,000+/yr with core platform) | 30-day free trial available for Workday Adaptive Planning module upon request (no free trial for core HCM/Financials ERP) | Embedded business process engine within Workday HCM and Financials. Best for organizations already on Workday needing process automation tightly coupled to HR and finance transactions. |
+| **[Pegasystems (Pega)](https://www.pega.com/)** | ~$3.1B–$3.5B Market Cap (~$1.4B Rev) | Quote-only case-based pricing (starting ~$90/user/mo or per-case completed fee) | 30-day free trial on Pega Community Edition (extendable once for +15 days up to 45 days total; 1 active cloud instance; auto-sleeps on inactivity) | Enterprise AI-powered workflow automation platform with MCP protocol support for third-party AI agents. Best for large enterprises deploying governed AI agents at scale. |
+| **[Appian](https://appian.com/)** | ~$2.4B–$2.6B Market Cap (~$600M Rev) | Starts at $75/user/month (Standard tier; quote-only for advanced enterprise) | Free Community Edition (unlimited-time access for up to 15 users in shared dev environment; non-production; auto-pauses when idle) | Low-code automation platform combining BPM, case management, and AI. Best for enterprises wanting rapid low-code process application development with strong integration and case management. |
+| **[Nintex](https://www.nintex.com/)** | ~$2.0B Valuation (~$250M+ ARR) | ~$1,250–$2,080/month ($15,000–$25,000/yr starting package based on usage/workflows) | 30-day free trial (no credit card required; access to Nintex Workflow, DocGen, and form builders under standard trial execution caps) | Workflow automation and process management platform with document generation and RPA. Best for organizations heavily invested in Microsoft/SharePoint ecosystems. |
+| **[Camunda](https://camunda.com/)** | ~$1.0B+ Unicorn Valuation (~$150M–$200M ARR) | Enterprise SaaS starts at ~$4,160/month (~$50,000/year base commitment) | Permanent Free Modeling Tier (5 seats, unlimited BPMN/DMN design & collaboration) + 30-day full execution trial | Process orchestration platform with BPMN, DMN, and CMMN engines. Best for developer-centric teams wanting widely adopted open-core BPM engine with strong microservice orchestration. |
+| **[Kissflow](https://kissflow.com/)** | ~$400M Implied Valuation (~$27M ARR) | Starts at $1,500–$2,500/month (Basic Plan, billed annually; unlimited internal creators) | 14-day guided trial available upon consultation with solutions team (no permanent free tier) | No-code/low-code workflow and process platform. Best for business teams wanting self-service process automation without developer involvement. |
+| **[Bizagi](https://www.bizagi.com/)** | ~$145M Valuation (~$50M ARR) | Starts at ~$165/user/month (~$1,990/user/year base commercial pricing) | Permanently free Bizagi Modeler desktop app (individual BPMN 2.0 mapping/diagramming; local storage; no cloud automation engine) | Digital process automation platform with BPMN modeling and low-code app development. Best for organizations wanting strong BPMN modeling with a path to process automation. |
+| **[ProcessMaker](https://www.processmaker.com/)** | Acquired by Decisions LLC (~$15M–$22M Rev) | Starts at ~$1,495/year (Standard entry tier; custom case-based pricing for advanced tiers) | 14-day to 30-day trial environment upon request through sales demo (no permanent free cloud tier; open-source core available) | Low-code BPM and workflow platform with process modeling, forms, and integrations. Best for mid-market organizations wanting a low-code BPM platform with flexible deployment options. |
 
 ## Open-Source GitHub Projects
 
